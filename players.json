@@ -1,3 +1,28 @@
-[
-	{}
-]
+{
+    "op": [
+        {
+            "names": [ "syou", "murasyou" ],
+            "rank": "owner",
+            "description": {
+                "default": "",
+                "ja_JP": ""
+            }
+        },
+        {
+            "names": [ "96Yuraroki", "Yroki" ],
+            "rank": "operator",
+            "description": {
+                "default": "",
+                "ja_JP": ""
+            }
+        },
+        {
+            "names": [ "LesMiselables25", "LesMiselables26" , "HatsuneDaishi" ],
+            "rank": "operator",
+            "description": {
+                "default": "",
+                "ja_JP": ""
+            }
+        }
+    ]
+}
